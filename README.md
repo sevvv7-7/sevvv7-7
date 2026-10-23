@@ -1,27 +1,15 @@
-<h1 align="left">Hola, soy Sebastián</h1>
+<h2>Hola, soy Sebastián 👋</h2>
 
-<h3 align="left">Estudiante de Ciberseguridad</h3>
+<img align="right" src="https://github.com/sevvv7-7/test-1/blob/23d62aa41454b500453a12117bfde24384e993bd/dance-cat.gif" width="90">
 
-<p align="left">
-  Actualmente, estoy fortaleciendo mis conocimientos mediante prácticas, laboratorios y proyectos técnicos en seguridad informática y análisis de vulnerabilidades
-</p>
+<h3>Estudiante de Ciberseguridad</h3>
 
-</td>
-<td width="35%" align="center" valign="middle">
+Actualmente, estoy fortaleciendo mis conocimientos mediante prácticas,
+laboratorios y proyectos técnicos en seguridad informática y análisis de vulnerabilidades.
 
-<img src="https://github.com/sevvv7-7/test-1/blob/23d62aa41454b500453a12117bfde24384e993bd/dance-cat.gif"
-     width="220"
-     alt="Gatito programando">
+<p><strong>Mis herramientas</strong></p>
 
-</td>
-</tr>
-</table>
-
-## Mis herramientas
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Sistemas, redes y ciberseguridad
 
