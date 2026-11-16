@@ -1,6 +1,5 @@
 <h2>Hola, soy Sebastián 👋</h2>
 
-<img align="right" src="https://github.com/sevvv7-7/test-1/blob/23d62aa41454b500453a12117bfde24384e993bd/dance-cat.gif" width="90">
 
 <h3>Estudiante de Ciberseguridad</h3>
 
